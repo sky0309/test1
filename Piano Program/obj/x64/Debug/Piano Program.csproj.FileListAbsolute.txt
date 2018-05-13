@@ -62,3 +62,6 @@ D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano_Program.Properties.Res
 D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano Program.csproj.GenerateResource.Cache
 D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano Program.exe
 D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano Program.pdb
+C:\Users\최우택\test\Piano Program\bin\x64\Debug\Piano Program.exe.config
+C:\Users\최우택\test\Piano Program\obj\x64\Debug\Piano Program.exe
+C:\Users\최우택\test\Piano Program\obj\x64\Debug\Piano Program.pdb
