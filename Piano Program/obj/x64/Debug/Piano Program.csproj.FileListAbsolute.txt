@@ -1,0 +1,64 @@
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Piano Program.exe.config
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Piano Program.exe
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Piano Program.pdb
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\irrKlang.NET4.dll
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\x64\Debug\Piano_Program.Form1.resources
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\x64\Debug\Piano_Program.Properties.Resources.resources
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\x64\Debug\Piano Program.csproj.GenerateResource.Cache
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\x64\Debug\Piano Program.exe
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\x64\Debug\Piano Program.pdb
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\obj\x64\Debug\Piano Program.csprojResolveAssemblyReference.cache
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\NAudio.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\NAudio.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\CSCore.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Debug\CSCore.xml
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Piano Program.exe.config
+C:\Users\최우택\Desktop\Piano Program\Piano Program\obj\x64\Debug\Piano Program.exe
+C:\Users\최우택\Desktop\Piano Program\Piano Program\obj\x64\Debug\Piano Program.pdb
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Piano Program.exe
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Piano Program.pdb
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\CSCore.dll
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\irrKlang.NET4.dll
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.dll
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\NAudio.dll
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\CSCore.xml
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.xml
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\최우택\Desktop\Piano Program\Piano Program\bin\x64\Debug\NAudio.xml
+C:\Users\최우택\Desktop\Piano Program\Piano Program\obj\x64\Debug\Piano Program.csprojResolveAssemblyReference.cache
+C:\Users\최우택\Desktop\Piano Program\Piano Program\obj\x64\Debug\Piano_Program.Form1.resources
+C:\Users\최우택\Desktop\Piano Program\Piano Program\obj\x64\Debug\Piano_Program.Properties.Resources.resources
+C:\Users\최우택\Desktop\Piano Program\Piano Program\obj\x64\Debug\Piano Program.csproj.GenerateResource.Cache
+D:\정리\Piano Program\Piano Program\bin\x64\Debug\Piano Program.exe.config
+D:\정리\Piano Program\Piano Program\bin\x64\Debug\Piano Program.exe
+D:\정리\Piano Program\Piano Program\bin\x64\Debug\Piano Program.pdb
+D:\정리\Piano Program\Piano Program\bin\x64\Debug\CSCore.dll
+D:\정리\Piano Program\Piano Program\bin\x64\Debug\NAudio.dll
+D:\정리\Piano Program\Piano Program\bin\x64\Debug\NAudio.WindowsMediaFormat.dll
+D:\정리\Piano Program\Piano Program\bin\x64\Debug\CSCore.xml
+D:\정리\Piano Program\Piano Program\bin\x64\Debug\NAudio.xml
+D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano Program.csprojResolveAssemblyReference.cache
+D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano_Program.Form1.resources
+D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano_Program.Properties.Resources.resources
+D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano Program.csproj.GenerateResource.Cache
+D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano Program.exe
+D:\정리\Piano Program\Piano Program\obj\x64\Debug\Piano Program.pdb

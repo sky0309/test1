@@ -1,0 +1,23 @@
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Piano Program.exe.config
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Piano Program.exe
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Piano Program.pdb
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\Debug\Piano Program.csprojResolveAssemblyReference.cache
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\Debug\Piano_Program.Form1.resources
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\Debug\Piano_Program.Properties.Resources.resources
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\Debug\Piano Program.csproj.GenerateResource.Cache
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\Debug\Piano Program.exe
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\obj\Debug\Piano Program.pdb
+c:\users\최우택\documents\visual studio 2015\Projects\Piano Program\Piano Program\bin\Debug\irrKlang.NET4.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\NAudio.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\Debug\NAudio.xml

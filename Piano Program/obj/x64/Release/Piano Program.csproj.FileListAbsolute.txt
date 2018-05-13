@@ -1,0 +1,22 @@
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Piano Program.exe.config
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Piano Program.exe
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Piano Program.pdb
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\irrKlang.NET4.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.Direct3D.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.Direct3DX.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\NAudio.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.Direct3DX.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\Microsoft.DirectX.DirectSound.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\bin\x64\Release\NAudio.xml
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\obj\x64\Release\Piano_Program.Form1.resources
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\obj\x64\Release\Piano_Program.Properties.Resources.resources
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\obj\x64\Release\Piano Program.csproj.GenerateResource.Cache
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\obj\x64\Release\Piano Program.exe
+C:\Users\최우택\Documents\Visual Studio 2015\Projects\Piano Program\Piano Program\obj\x64\Release\Piano Program.pdb
